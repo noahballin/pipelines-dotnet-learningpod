@@ -1,3 +1,8 @@
+
+GET https://dev.azure.com/{organization}/{project}/_apis/build/repos/{repoType}/badge?api-version=6.0-preview.2
+'''
+
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
