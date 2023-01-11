@@ -1,6 +1,4 @@
-
-GET https://dev.azure.com/{organization}/{project}/_apis/build/repos/{repoType}/badge?api-version=6.0-preview.2
-'''
+[![Build Status](https://dev.azure.com/noahballinger-dotnet/dotnet-learning-pod/_apis/build/status/noahballin.pipelines-dotnet-learningpod?branchName=master)](https://dev.azure.com/noahballinger-dotnet/dotnet-learning-pod/_build/latest?definitionId=3&branchName=master)
 
 
 # Sample ASP.NET Core application for Azure Pipelines docs
